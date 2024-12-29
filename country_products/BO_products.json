@@ -1,0 +1,446 @@
+[
+    {
+        "name": "PRUNEX1  CAJA 7 x 5 gr",
+        "price": "€ 11,20",
+        "points": "5",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148179_PEQ_10102024_205419_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148179",
+        "sku": "148179",
+        "description": "Bebida frutal en base a mix de fibras solubles y extracto de guindones, los cuales representan una alternativa eficaz en casos de estreñimiento, promoviendo la desintoxicación del colon.",
+        "slogans": [
+            "¡LIBERA EL TRÁNSITO EN TU SISTEMA DIGESTIVO!",
+            "Mix de fibras (Psylium, Inulina de Achicoria, Mucílago de Linaza) Kelp, Anís estrella, Extracto de guindones"
+        ],
+        "video_url": "https://player.vimeo.com/video/868295980?h=75ec6bfb62",
+        "benefits": "Beneficios: BeneficiosPRUNEX1 promueve una función digestiva saludable y contribuye a aliviar los síntomas ocasionales del estreñimiento.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoToma medio stick o un sitck al día, de preferencia por la noche antes de dormir.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148179_EXT_10102024_205419_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148179_EXT_10102024_205433.jpg"
+        ]
+    },
+    {
+        "name": "VITA XTRA T+  CAJA 7 x 5 gr",
+        "price": "€ 11,20",
+        "points": "5",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148183_PEQ_10102024_202517_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148183",
+        "sku": "148183",
+        "description": "Esta bebida antioxidante, energizante, multivitaminica y multimineral única, es una poderosa fuente nutricional que te brinda energía física y vitalidad. Su increíble fórmula Clean Label te ayuda a obtener un efecto prolongado de energía para mantenerte activo todo el día, mientras te ayuda a reducir la oxidación celular.",
+        "slogans": [
+            "¡PARA QUE VIVAS CADA DÍA CON LA ENERGÍA DEL PRIMERO!",
+            "ANTOCIANINA DE MAÍZ MORADO + GUAYUSA + TÉ VERDE + ACAI BERRY + MICELIO DE CORDYCEPS + GOJI BERRY + MACA + GINSENG + FIBRA SOLUBLE + VITAMINAS + MINERALES"
+        ],
+        "video_url": "https://player.vimeo.com/video/715570314?h=354744d953",
+        "benefits": "Beneficios: BeneficiosVITA XTRA T+ es la combinación nutracéutica que te mantiene alerta y de buen ánimo, mejora el rendimiento físico y el desempeño diario en general con un efecto energético que te durará durante todo el día. También reduce la oxidación de las células y la proliferación de radicales libres.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos stick al día, de preferencia al levantarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148183_EXT_10102024_202517_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148183_EXT_10102024_202541.jpg"
+        ]
+    },
+    {
+        "name": "NOCARB-T  CAJA 7 x 5 gr",
+        "price": "€ 11,20",
+        "points": "5",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148190_PEQ_11102024_192011_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148190",
+        "sku": "148190",
+        "description": "Delicioso té con sabor a manzana y canela, en base a fibras de yacón y acacia, que modulan la absorción de carbohidratos por el cuerpo y favorecen el metabolismo natural de la glucosa, lo que contribuye al control del peso y medidas.",
+        "slogans": [
+            "¡PON LOS CARBOHIDRATOS EN RAYA!",
+            "FIBRAS SOLUBLES (EXTRACTO DE YACÓN, FIBRA DE ACACIA, INULINA DE ACHICORIA, PECTINA DE MANZANA) + VERDOLAGA + EXTRACTO DE CANELA + EXTRACTO DE TÉ VERDE + CROMO"
+        ],
+        "video_url": "https://player.vimeo.com/video/715569741?h=cf73736551",
+        "benefits": "Beneficios: BeneficiosNOCARB-T ayuda a reducir y modular la asimilación de azúcar (carbohidratos) en el organismo; de esta manera previene las subidas repentinas de glucosa en la sangre. Ayuda a controlar la acumulación de grasa en el organismo.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoUno o dos sticks al día, antes o durante las comidas.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148190_EXT_11102024_192011_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148190_EXT_11102024_192040.jpg"
+        ]
+    },
+    {
+        "name": "FLORA LIV  CAJA 7 x 5 gr",
+        "price": "€ 13,40",
+        "points": "6",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148181_PEQ_10102024_204115_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148181",
+        "sku": "148181",
+        "description": "Deliciosa bebida de granadilla con más de 10 mil millones de bacterias probióticas que llegan vivas al intestino para promover la salud digestiva y activar las defensas naturales del organismo desde la flora intestinal.",
+        "slogans": [
+            "¡PROTEGE TU ORGANISMO DESDE ADENTRO!",
+            "BACTERIAS PROBIÓTICAS + FIBRA PREBIÓTICA + EXTRACTO DE PULPA DE GRANADILLA + AGUAYMANTO"
+        ],
+        "video_url": "https://player.vimeo.com/video/696740099?h=d2aca27f5a",
+        "benefits": "Beneficios: BeneficiosFLORA LIV contiene 10 mil millones de bacterias probióticas que ayudan reconstituir y mantener el equilibrio de la flora intestinal; con lo que refuerza las defensas naturales del organismo y mantiene la salud intestinal.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos sticks al día, de preferencia por la mañana en ayunas o por la noche antes de dormir.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148181_EXT_10102024_204115_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148181_EXT_10102024_204138.jpg"
+        ]
+    },
+    {
+        "name": "GANO+ CAPPUCCINO  CAJA 28 x 7.5gr",
+        "price": "€ 29,50",
+        "points": "12",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148192_PEQ_10102024_215504_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148192",
+        "sku": "148192",
+        "description": "Delicioso café cappuccino elaborado con extracto de Ganoderma Lucidum, hongo silvestre de Asia, usado ancestralmente como el secreto de la longevidad por su gran poder antioxidante a nivel celular.",
+        "slogans": [
+            "¡OPTIMIZA TU SISTEMA DE PROTECCIÓN!",
+            "EXTRACTO DE GANODERMA LUCIDUM + MICRONUTRIENTES"
+        ],
+        "video_url": "https://player.vimeo.com/video/716947952?h=934c1da29f",
+        "benefits": "Beneficios: BeneficiosSus antioxidantes y micronutrientes, te ayudarán a:Reducir el daño oxidativo que afecta tu sistema natural de protección.Modular un funcionamiento normal de tus defensas naturales.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoDos sticks al día, en cualquier momento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148192_EXT_10102024_215504_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148192_EXT_10102024_215549.jpg"
+        ]
+    },
+    {
+        "name": "ON  CAJA 28 x 5 gr",
+        "price": "€ 35,00",
+        "points": "17",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148187_PEQ_10102024_212148_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148187",
+        "sku": "148187",
+        "description": "Deliciosa bebida funcional que actúa a nivel neuronal, activando la mente y preparándote para estar más alerta. ON está hecho a base de Taurina y Extracto de Yerba Mate, dos estimulantes naturales para el cerebro que ayudan a incrementar tu entusiasmo. Ambos trabajan en sinergia con la Vitamina C para potenciar los procesos antioxidantes; y con minerales, aceites esenciales y aminoácidos que contribuyen a mejorar la nutrición neuronal.",
+        "slogans": [
+            "¡MENTE ACTIVA Y ALERTA!",
+            "TAURINA + EXTRACTO DE YERBA MATE + ACAI BERRY + CAMU CAMU + VITAMINA C + VITAMINAS DEL COMPLEJO B + MINERALES EN MOLÉCULA ORGÁNICA (MAGNESIO, HIERRO, ZINC) + DHA + ARA"
+        ],
+        "video_url": "https://player.vimeo.com/video/698732654?h=d3941fa621",
+        "benefits": "Beneficios: BeneficiosLa acción de los ingredientes de ON te ayudan a mantener tu mente activa y alerta, nutrir tu cerebro para mejorar tu función neuronal, así como para potenciar el aprendizaje.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoToma uno o dos sticks al día, en cualquier momento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148187_EXT_10102024_212148_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148187_EXT_10102024_212205.jpg"
+        ]
+    },
+    {
+        "name": "VITAENERGIA  CAJA 30 x 7.5 gr",
+        "price": "€ 39,69",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148184_PEQ_10102024_204319_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148184",
+        "sku": "148184",
+        "description": "Bebida funcional multivitamínica con sabor a refresco de maíz morado que promueve la vitalidad y apoya una correcta fisiología.",
+        "slogans": [
+            "¡PARA QUE LE PONGAS GANAS A CADA DÍA!",
+            "5 Aminoácidos + 9 Vitaminas + 6 Minerales + 4 antioxidantes (Antocianina + Bayas de Acai + Camu Camu + Luteína) + Fibra Soluble (Inulina)"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: BeneficiosVITAENERGÍA ayuda a mantener la salud general del organismo y a disipar la sensación de fatiga gracias a sus componentes revitalizantes. Sus antioxidantes ayudan a reducir la proliferación de radicales libres (oxidación) en los procesos de regeneración celular, por lo que refuerza el sistema inmunológico.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un sobre en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos sobres al día, de preferecia al levantarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148184_EXT_10102024_204319_MAIN.jpeg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148184_EXT_10102024_204341.jpg"
+        ]
+    },
+    {
+        "name": "PRUNEX1  CAJA 28 x 5 gr",
+        "price": "€ 39,90",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148178_PEQ_10102024_222444_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148178",
+        "sku": "148178",
+        "description": "Bebida frutal en base a mix de fibras solubles y extracto de guindones, los cuales representan una alternativa eficaz en casos de estreñimiento, promoviendo la desintoxicación del colon.",
+        "slogans": [
+            "¡LIBERA EL TRÁNSITO EN TU SISTEMA DIGESTIVO!",
+            "Mix de fibras (Psylium, Inulina de Achicoria, Mucílago de Linaza) Kelp, Anís estrella, Extracto de guindones"
+        ],
+        "video_url": "https://player.vimeo.com/video/868295980?h=75ec6bfb62",
+        "benefits": "Beneficios: BeneficiosPRUNEX1 promueve una función digestiva saludable y contribuye a aliviar los síntomas ocasionales del estreñimiento.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoToma medio stick o un sitck al día, de preferencia por la noche antes de dormir.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148178_EXT_10102024_222444_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148178_EXT_10102024_222500.jpg"
+        ]
+    },
+    {
+        "name": "VITA XTRA T+  CAJA 28 x 5 gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148182_PEQ_10102024_201526_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148182",
+        "sku": "148182",
+        "description": "Esta bebida antioxidante, energizante, multivitaminica y multimineral única, es una poderosa fuente nutricional que te brinda energía física y vitalidad. Su increíble fórmula Clean Label te ayuda a obtener un efecto prolongado de energía para mantenerte activo todo el día, mientras te ayuda a reducir la oxidación celular.",
+        "slogans": [
+            "¡PARA QUE VIVAS CADA DÍA CON LA ENERGÍA DEL PRIMERO!",
+            "ANTOCIANINA DE MAÍZ MORADO + GUAYUSA + TÉ VERDE + ACAI BERRY + MICELIO DE CORDYCEPS + GOJI BERRY + MACA + GINSENG + FIBRA SOLUBLE + VITAMINAS + MINERALES"
+        ],
+        "video_url": "https://player.vimeo.com/video/715570314?h=354744d953",
+        "benefits": "Beneficios: BeneficiosVITA XTRA T+ es la combinación nutracéutica que te mantiene alerta y de buen ánimo, mejora el rendimiento físico y el desempeño diario en general con un efecto energético que te durará durante todo el día. También reduce la oxidación de las células y la proliferación de radicales libres.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos stick al día, de preferencia al levantarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148182_EXT_10102024_201526_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148182_EXT_10102024_201557.jpeg"
+        ]
+    },
+    {
+        "name": "NUTRADAY  CAJA 28 x 5gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148185_PEQ_10102024_210224_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148185",
+        "sku": "148185",
+        "description": "Delicioso refresco sabor a fresa natural los micronutrientes que tu familia y tú necesitan para tener más vitalidad y fortalecer sus defensas. Está potenciado con extracto de Moringa, fuente natural de hierro (25 veces más concentrado que la espinaca) y calcio (17 veces más que la leche). Esta potenciado con concentrados naturales que son fuentes reconocidas de vitaminas y minerales. Este delicioso mix es el alimento ideal para complementar la nutrición de tu familia, desde tus hijos a tus abuelos.",
+        "slogans": [
+            "¡BRINDA A TU CUERPO LOS NUTRIENTES QUE NECESITA!",
+            "MORINGA + CAMU CAMU + ACAI BERRY + GUAYABA + ACEROLA + VITAMINAS (A, B1, B2, B3, B6. B9, B12, C, D, E + MINERALES (HIERRO, ZINC Y SELENIO)"
+        ],
+        "video_url": "https://player.vimeo.com/video/1006237055?h=b58d967305&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "benefits": "Beneficios: BeneficiosSu consumo diario ayudará a: - Complementar tu nutrición con la dosis adecuada de antioxidantes, vitaminas y minerales. - Mantener en estado óptimo tu sistema inmunológico. - Tener un óptimo desarrollo físico y mental.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoTomar uno o dos sticks al día, de preferencia por las mañanas y por las tardes.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148185_EXT_10102024_210224_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148185_EXT_10102024_210242.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148185_EXT_10102024_210253.jpg"
+        ]
+    },
+    {
+        "name": "THERMO T3  CAJA 28 x 5 gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148186_PEQ_10102024_192305_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148186",
+        "sku": "148186",
+        "description": "Delicioso mix de tres tés con limón y extractos vegetales que promueve un óptimo metabolismo de las grasas; así como la generación de energía a partir de la grasa acumulada en el cuerpo. Por lo que contribuye a la reducción de medidas y la pérdida de peso.",
+        "slogans": [
+            "¡TRANSFORMA LA GRASA EN ENERGÍA!",
+            "Mix de tés (té rojo, té verde y té negro) + L-carnitina + Tamarindo malabar + Cetonas de Frambuesa + Extracto de Café Verde + Ácido Alfa Lipoico + Aminoácidos + Vitaminas + Cromo + Extracto de Limón"
+        ],
+        "video_url": "https://player.vimeo.com/video/715570153?h=3e841c8696",
+        "benefits": "Beneficios: BeneficiosThermo T3 ayuda a generar energía a partir de la quema de grasa, por lo que reduce la acumulación de reservas de grasa en el organismo. Aumenta tu resistencia, por lo que es recomendable que lo consumas antes de una rutina de ejercicio.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoUno o dos sticks al día, después de las comidas. Si haces ejercicio, tómalo antes de entrenar.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148186_EXT_10102024_192305_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148186_EXT_10102024_192332.jpg"
+        ]
+    },
+    {
+        "name": "NOCARB-T  CAJA 28 x 5 gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148189_PEQ_11102024_192350_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148189",
+        "sku": "148189",
+        "description": "Delicioso té con sabor a manzana y canela, en base a fibras de yacón y acacia, que modulan la absorción de carbohidratos por el cuerpo y favorecen el metabolismo natural de la glucosa, lo que contribuye al control del peso y medidas.",
+        "slogans": [
+            "¡PON LOS CARBOHIDRATOS EN RAYA!",
+            "FIBRAS SOLUBLES (EXTRACTO DE YACÓN, FIBRA DE ACACIA, INULINA DE ACHICORIA, PECTINA DE MANZANA) + VERDOLAGA + EXTRACTO DE CANELA + EXTRACTO DE TÉ VERDE + CROMO"
+        ],
+        "video_url": "https://player.vimeo.com/video/715569741?h=cf73736551",
+        "benefits": "Beneficios: BeneficiosNOCARB-T ayuda a reducir y modular la asimilación de azúcar (carbohidratos) en el organismo; de esta manera previene las subidas repentinas de glucosa en la sangre. Ayuda a controlar la acumulación de grasa en el organismo.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en una taza con 180 ml de agua caliente.Recomendación de ConsumoUno o dos sticks al día, antes o durante las comidas.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148189_EXT_11102024_192350_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148189_EXT_11102024_192423.jpg"
+        ]
+    },
+    {
+        "name": "YOUTH ELIXIR  CAJA 28 x 5gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148381_PEQ_05112024_175827_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148381",
+        "sku": "148381",
+        "description": "Combinación natural de aminoácidos con antioxidantes como el resveratrol, que se encuentra en la uva del vino y súper frutas como blue-berries, sauco y amalaki que trabajan sinérgicamente para reducir los radicales libres y nutrir la glándula pituitaria, responsable de segregar la hormona de la juventud.",
+        "slogans": [
+            "¡MANTÉN UN CUERPO JOVEN POR MÁS TIEMPO!",
+            "AMINOÁCIDOS + ANTIOXIDANTES + RESVERATROL + OPTIBERRY®"
+        ],
+        "video_url": "https://player.vimeo.com/video/1023436785?h=3cfd63b818&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "benefits": "Beneficios: BeneficiosLos componentes de YOUTH ELIXIR HGH te ayudarán a:Aumentar la vitalidad, la elasticidad de la piel y mejorar la calidad del sueño.Prevenir los efectos del envejecimiento prematuro, producido por los radicales libres.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoUno o dos sticks al día, de preferencia antes de acostarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148381_EXT_05112024_175827_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148381_EXT_05112024_175842.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148381_EXT_05112024_175850.jpg"
+        ]
+    },
+    {
+        "name": "PASSION  CAJA 28 x 5gr",
+        "price": "€ 41,25",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148382_PEQ_22102024_165449_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148382",
+        "sku": "148382",
+        "description": "Combinación de aminoácidos, extractos vegetales y minerales que mejoran tu vigor y energía.",
+        "slogans": [
+            "¡INCREMENTA TU VIGOR!",
+            "AMINOÁCIDOS + EXTRACTO DE JALEA REAL + MACA + GINSENG + ZINC"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: BeneficiosLos ingredientes de Passion te ayudarán a:Mejorar la vitalidad gracias a la L-arginina, isoleucina y glutamina, potentes aminoácidos.Incrementar la energía por su contenido de maca, ginseng y teína del té negro.Vigorizar el cuerpo gracias a su contenido de jalea real y zinc.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoUn stick al día, en cualquier momento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148382_EXT_22102024_165449_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148382_EXT_22102024_165607.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148382_EXT_22102024_165637.jpg"
+        ]
+    },
+    {
+        "name": "BIOPRO+ SPORT  CAJA 14 x 25gr",
+        "price": "€ 42,99",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148193_PEQ_10102024_214931_MAIN.png",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148193",
+        "sku": "148193",
+        "description": "Batido proteico que ayuda a nutrir tus músculos adecuadamente para evitar su deterioro y promover un sano desarrollo de tu cuerpo, gracias a Bioprotein+ con Colostrum®, fórmula proteica patentada de Fuxion, enriquecida con Actinos® y aminoácidos.",
+        "slogans": [
+            "¡EJERCICIO SALUDABLE Y MÚSCULOS TONIFICADOS!",
+            "BIOPROTEIN+ CON COLOSTRUM® + ACTINOS® + AMINOÁCIDOS + CALCIO LÁCTEO + DHA Y ARA"
+        ],
+        "video_url": "https://player.vimeo.com/video/853867221?h=ec6895b211",
+        "benefits": "Beneficios: BeneficiosSus ingredientes te ayudarán a: - Incrementar el flujo sanguíneo y el rendimiento físico, formulación de péptidos patentada. - Generar masa muscular magra y marcada menos tiempo. (*) - Mejorar la recuperación y aporte de oxígeno al músculo.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoTomar dos sticks al día, entre comidas o después del entrenamiento. Tómalo como batido (solo con agua y hielo) o como smoothie (combinado con jugos y fruta congelada).",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148193_EXT_10102024_214931_MAIN.png",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148193_EXT_10102024_215119.png"
+        ]
+    },
+    {
+        "name": "BEAUTY-IN  CAJA 28 x 5 gr",
+        "price": "€ 43,70",
+        "points": "25",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148188_PEQ_10102024_195905_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148188",
+        "sku": "148188",
+        "description": "Delicioso refresco de guayaba que posee una combinación de colágeno y nutrientes para la piel que actúan desde adentro, permitiéndole combatir el paso del tiempo y ganar elasticidad.",
+        "slogans": [
+            "¡EL SECRETO DE LA VERDADERA BELLEZA VIENE DESDE ADENTRO!",
+            "PÉPTIDOS DE COLÁGENO HIDROLIZADO + COQ10 + BIOTINA + ANTIOXIDANTES+ VITAMINAS C Y E + CONCENTRADO DE FRUTAS TROPICALES (GUAYABA, TORONJA Y CAMU CAMU)"
+        ],
+        "video_url": "https://player.vimeo.com/video/694126065?h=5608057daf",
+        "benefits": "Beneficios: BeneficiosBEAUTY-IN te ayuda a:\n• Proporcionar nutrición celular óptima a la piel, protegiendo y reparando la piel dañada.\n• Promover el cuidado y regeneración del colágeno y elastina de la dermis, otorgando mayor elasticidad y textura a la piel.\n• Dar firmeza e hidratación a tu piel, retardando la aparición de los signos del envejecimiento.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUn stick al día, de preferencia antes de acostarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148188_EXT_10102024_195905_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148188_EXT_10102024_195924.jpg"
+        ]
+    },
+    {
+        "name": "NO STRESS  CAJA 28 x 5 gr",
+        "price": "€ 45,49",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148191_PEQ_10102024_215905_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148191",
+        "sku": "148191",
+        "description": "Deliciosa bebida nutritiva hecha a base de aminoácidos esenciales que actúan sobre el cerebro para mantenerlo relajado, enfocado y en positivo. Estos aminoácidos, en combinación con extracto de Ashwagandha, vitaminas del complejo B y minerales, contribuyen a una mejor nutrición neuronal, a equilibrar al sistema nervioso y optimizar los procesos naturales de relajación, sin producir somnolencia.",
+        "slogans": [
+            "EMPIEZA A VER LOS MOMENTOS DE TENSIÓN ¡PERO SIN TENSIÓN!",
+            "AMINOÁCIDOS (GLICINA, TRIPTÓFANO) + EXTRACTO DE SÚPER FRUTAS (ASHWAGANDHA Y LIMÓN) + MAGNESIO EN MOLÉCULA ORGÁNICA + VITAMINAS DEL COMPLEJO B"
+        ],
+        "video_url": "https://player.vimeo.com/video/697153300?h=9c2aea51ba",
+        "benefits": "Beneficios: BeneficiosLos ingredientes de NO STRESS contribuyen a incrementar la resistencia del organismo frente al estrés, la ansiedad y la angustia. Ayudan a mantener la concentración y enfoque en momentos de gran tensión, así como mejorar la capacidad de relajación.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos sticks al día, en cualquier momento. Si se quiere mejorar la calidad de sueño, puedo tomarse antes de dormir.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148191_EXT_10102024_215905_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148191_EXT_10102024_215930.jpg"
+        ]
+    },
+    {
+        "name": "GOLDEN FLX  CAJA 28 x 5gr",
+        "price": "€ 45,49",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148380_PEQ_11112024_212345_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148380",
+        "sku": "148380",
+        "description": "Delicioso té de especias con leche de coco, hecho a base de cúrcuma orgánica certificada de efecto antioxidante y protector. Los curcuminoides extraídos de la cúrcuma trabajan en sinergia con el jengibre, el cardamomo y la pimienta negra para mantener la flexibilidad de las articulaciones.",
+        "slogans": [
+            "¡PROTEGE CADA PASO DE TU VIDA!",
+            "EXTRACTO DE CÚRCUMA + JENGIBRE + CARDAMOMO + LECHE DE COCO + PIMIENTA NEGRA + CANELA"
+        ],
+        "video_url": "https://player.vimeo.com/video/1023438141?h=ed5587be4d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "benefits": "Beneficios: BeneficiosLos ingredientes de GOLDEN FLX trabajan en sinergia para:Contribuir a prevenir las molestias articulares ocasionados por la edad, el sobrepeso y el ejercicio.Contribuir a mejorar la flexibilidad y movilidad de articulaciones.Ayudar a controlar los procesos oxidativos.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoToma uno o dos sticks al día, en cualquier momento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148380_EXT_11112024_212345_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148380_EXT_11112024_212409.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148380_EXT_11112024_212423.jpg"
+        ]
+    },
+    {
+        "name": "FLORA LIV  CAJA 28 x 5 gr",
+        "price": "€ 46,00",
+        "points": "24",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148180_PEQ_10102024_221143_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148180",
+        "sku": "148180",
+        "description": "",
+        "slogans": [
+            "",
+            ""
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148180_EXT_10102024_221143_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148180_EXT_10102024_221220.jpg"
+        ]
+    },
+    {
+        "name": "PRE SPORT  CAJA 28 x 5gr",
+        "price": "€ 46,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148194_PEQ_10102024_214310_MAIN.png",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148194",
+        "sku": "148194",
+        "description": "Bebida isotónica, rehidratante y energizante natural que prepara al cuerpo para la actividad deportiva intensa y mejora su rendimiento durante el ejercicio.",
+        "slogans": [
+            "¡PREPARA TU CUERPO PARA DARLO TODO!",
+            "AMINOÁCIDOS + EXTRACTOS VEGETALES (SANDÍA + YERBA MATE + BETERRAGA) + MINERALES EN MOLÉCULA ORGÁNICA"
+        ],
+        "video_url": "https://player.vimeo.com/video/853867164?h=2b00df0c32",
+        "benefits": "Beneficios: BeneficiosSu consumo antes de la actividad física te ayuda a: - Mantener la hidratación corporal gracias a su aporte de electrolitos. - Aumentar la resistencia, al promover la vasodilatación (mejora la nutrición y la oxigenación muscular). - Reducir la fatiga y mejorar el desempeño deportivo gracias a la energía extra que brinda a tu cuerpo.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoTomar un stick al día, antes del entrenamiento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148194_EXT_10102024_214310_MAIN.png",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148194_EXT_10102024_214333.png"
+        ]
+    },
+    {
+        "name": "POST SPORT  CAJA 28 x 5gr",
+        "price": "€ 46,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148195_PEQ_10102024_212421_MAIN.png",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148195",
+        "sku": "148195",
+        "description": "Bebida deportiva a base de aminoácidos, agua de coco y antioxidantes que ayudan a la recuperación del cuerpo después del ejercicio. Rica en aminoácidos de cadena ramificada (BCAAs) que promueven la recuperación, el incremento y fortalecimiento de los músculos.",
+        "slogans": [
+            "¡AYUDA A TU CUERPO A RECUPERARSE LUEGO DEL EJERCICIO!",
+            "AMINOÁCIDOS (BCAAS + L-GLUTAMINA) + AGUA DE COCO + GRANADA + ACEROLA + CROMO"
+        ],
+        "video_url": "https://player.vimeo.com/video/853867197?h=e6fa5c91f0",
+        "benefits": "Beneficios: BeneficiosAdemás, te ayuda a:\n- Reparar, incrementar y fortalecer las fibras musculares.\n- Reponer los electrolitos de forma natural, gracias al agua de coco.\n- Neutralizar el efecto catabólico producido durante el ejercicio intenso, gracias a los antioxidantes contenidos en la granada, acerola, romero y antocianinas.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoTomar un stick al día, después del entrenamiento.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148195_EXT_10102024_212421_MAIN.png",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148195_EXT_10102024_212438.png"
+        ]
+    },
+    {
+        "name": "CAFÉ & CAFÉ FIT  CAJA 28 x 5gr",
+        "price": "€ 50,50",
+        "points": "24",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/BE/BE_148379_PEQ_11122024_231341_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=148379",
+        "sku": "148379",
+        "description": "Delicioso café gourmet tostado y liofilizado, enriquecido con extracto de café verde, formulación única de ácidos clorogénicos que mejoran el metabolismo de la glucosa y la grasa, apoyando el control de medidas y peso corporal. Complemento ideal de una dieta baja en calorías. ¡Ahora con café colombiano, prueba su nueva textura y sabor!",
+        "slogans": [
+            "¡DATE UN GUSTO SIN PERDER LA LÍNEA!",
+            "CAFÉ TOSTADO GOURMET LIOFILIZADO + EXTRACTO DE CAFÉ VERDE"
+        ],
+        "video_url": "https://player.vimeo.com/video/1023445843?h=27c6c3e4a5&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "benefits": "Beneficios: BeneficiosSus componentes te ayudarán a:Controlar la sensación de apetito.Reducir la sensación de cansancio y fatiga.Apoyar un programa de Control de peso y medidas (*).Reducir riesgos en tu salud (**).(*) Junto a una dieta balanceada y ejercicio (**) Se considera al sobrepeso como un factor de riesgo para diversas enfermedades",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoDos sticks al día, en cualquier momento. De preferencia entre comidas, para controlar el apetito.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148379_EXT_11122024_231341_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/BE/BE_148379_EXT_11122024_231401.jpg"
+        ]
+    }
+]

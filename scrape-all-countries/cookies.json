@@ -1,0 +1,36 @@
+{
+    "CL": {
+      "cookies": {
+        "FuXionCountry": "CL",
+        "FuXionSiteCulture": "es-CL",
+        "Fuxion_LastWebAlias": "alexsrebernic",
+        "__RequestVerificationToken": "mmbjz9CqJufgUfYxeDlexlQSYMt-7I-WxWY9Ofd4_a91B5apNmp6OSLLnnSmokFXqA0TPxLmKm6ntBMbRbSVdxTWrH41",
+        "getToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkZ1eGlvblRlc3QiLCJyb2xlIjoiQWRtaW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3ZlcnNpb24iOiJWMSIsIm5iZiI6MTcyNTI5MTg1NiwiZXhwIjoyMDQwODI0NjU2LCJpYXQiOjE3MjUyOTE4NTZ9.RGR7QYECrUTezPikT4GsdFQd_-vEm-rjAlOrJyhll4E",
+        "threadCode": "p7Epm3ZMutz6y3WO5yGu"
+      },
+      "localStorage": {
+        "VarCountry": "CL",
+        "ai_session": "crz9v|1725307753737.7|1725307753737.7",
+        "CategoryIDGaleon": "",
+        "CategoryIDLussome": "",
+        "loglevel": "INFO"
+      }
+    },
+    "AR": {
+      "cookies": {
+        "FuXionCountry": "AR",
+        "FuXionSiteCulture": "es-AR",
+        "Fuxion_LastWebAlias": "alexsrebernic",
+        "__RequestVerificationToken": "mmbjz9CqJufgUfYxeDlexlQSYMt-7I-WxWY9Ofd4_a91B5apNmp6OSLLnnSmokFXqA0TPxLmKm6ntBMbRbSVdxTWrH41",
+        "getToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkZ1eGlvblRlc3QiLCJyb2xlIjoiQWRtaW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3ZlcnNpb24iOiJWMSIsIm5iZiI6MTcyNTI5MTg1NiwiZXhwIjoyMDQwODI0NjU2LCJpYXQiOjE3MjUyOTE4NTZ9.RGR7QYECrUTezPikT4GsdFQd_-vEm-rjAlOrJyhll4E",
+        "threadCode": "p7Epm3ZMutz6y3WO5yGu"
+      },
+      "localStorage": {
+        "VarCountry": "AR",
+        "ai_session": "crz9v|1725307753737|1725308146671.4",
+        "CategoryIDGaleon": "",
+        "CategoryIDLussome": "",
+        "loglevel": "INFO"
+      }
+    }
+  }

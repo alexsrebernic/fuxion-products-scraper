@@ -1,0 +1,558 @@
+[
+    {
+        "name": "No Name",
+        "price": "₡ 25 185,00",
+        "points": "No Points",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145769_PEQ_15092021_213130_MAIN.jpeg",
+        "detail_url": "No Detail URL"
+    },
+    {
+        "name": "GANO+ CAPPUCCINO  CAJA 28 x 7.5 gr",
+        "price": "₡ 17 630,00",
+        "points": "14",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145788_PEQ_28072022_193740_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145788",
+        "sku": "145788",
+        "description": "Delicioso café cappuccino que contiene extracto de Ganoderma Lucidum, un hongo silvestre de Asia, usado ancestralmente como el secreto de la longevidad por su gran poder antioxidante a nivel celular. Existen estudios que relacionan a sus betaglucanos con un sistema inmune saludable.",
+        "slogans": [
+            "OPTIMIZA TU SISTEMA DE PROTECCIÓN",
+            "EXTRACTO DE GANODERMA LUCIDUM + QUILLAY + MICRONUTRIENTES"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145788_EXT_28072022_193740_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145788_EXT_02112020_170620.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145788_EXT_02112020_170649.jpg"
+        ]
+    },
+    {
+        "name": "ON  CAJA 28 x 5gr",
+        "price": "₡ 21 389,00",
+        "points": "17",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_147300_PEQ_14112023_162838_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=147300",
+        "sku": "147300",
+        "description": "Deliciosa bebida nutritiva que contiene Gaba, Taurina, Extracto de yerba mate, acai berry, camu camu, vitaminas y minerales, DHA y ARA.La Taurina, el Extracto de Yerba Mate y el acai berry son reconocidos como energizantes naturales que ayudan a mantener activa la mente. Los minerales, aminoácidos DHA y ARA son conocidos por contribuir a mejorar la nutrición cerebral y el desarrollo mental mientras que el Camu Camu y la Vitamina C protegen del daño de los radicales libres.",
+        "slogans": [
+            "MANTÉN TU MENTE ACTIVA Y ALERTA",
+            "GABA + TAURINA + EXTRACTO DE YERBA MATE + ACAI BERRY + CAMU CAMU + VITAMINA C + VITAMINAS DEL COMPLEJO B + MINERALES EN MOLÉCULA ORGÁNICA (MAGNESIO, HIERRO, ZINC) + DHA + ARA"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147300_EXT_14112023_162838_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "VITA XTRA T+  CAJA 28 x 5gr",
+        "price": "₡ 25 184,99",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_147302_PEQ_06112023_173147_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=147302",
+        "sku": "147302",
+        "description": "Bebida rica en antioxidantes y energizantes a partir de extractos frutales. Contiene Té Verde, el Acai Berry y extracto de Guayusa, conocidos por ser energizantes naturales.El Micelio de Cordyceps y la Maca que ancestralmente han sido usados para tener mayor resistencia.El Goji Berry, las antocianinas del maíz morado y la vitamina C del limón son antioxidantes reconocidos que ayudan a combatir los efectos perjudiciales de los radicales libres.",
+        "slogans": [
+            "RECUPERA TU VITALIDAD CADA DÍA",
+            "GUAYUSA + TÉ VERDE + ACAI BERRY + GOJI BERRY + MICELIO DE CORDYCEPS + MACA + GINSENG +ANTOCIANINA DE MAÍZ MORADO"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147302_EXT_06112023_173147_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "THERMO T3  CAJA 28 x 5gr",
+        "price": "₡ 25 185,40",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145799_PEQ_15012024_225629_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145799",
+        "sku": "145799",
+        "description": "Delicioso mix de tres tés, con limón y extractos vegetales.El té verde y la L-carnitina son componentes conocidos por aumentar la capacidad termogénica del cuerpo y generar energía a partir de la quema de grasa.El Ácido Alfa Lipídico, junto a la Vitamina B6 y el cromo en molécula orgánica contribuyen a un buen metabolismo energético.",
+        "slogans": [
+            "TRANSFORMA LA GRASA EN ENERGÍA (*)",
+            "MIX DE TÉS (TË VERDE, NEGRO Y ROJO) + CETONAS DE FRAMBUESA + GARCINIA CAMBOGIA + L-CARNITINA + CAFÉ VERDE + ÁCIDO ALFA LIPOICO + VITAMINA B6 + CROMO"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145799_EXT_15012024_225629_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "NOCARB-T  CAJA 28 x 5 gr",
+        "price": "₡ 25 185,44",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145798_PEQ_23052024_001649_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145798",
+        "sku": "145798",
+        "description": "Bebida a base de fibras solubles de Yacón, Pectinas, extracto de té verde y cromo.Las fibras solubles como el Yacón y las Pectinas son conocidas por ayudar a controlar la absorción de grasas; además el Cromo contribuye a mantener normal los niveles de la glucosa en la sangre.",
+        "slogans": [
+            "MANTÉN LOS CARBOHIDRATOS A RAYA (*)",
+            "FIBRAS SOLUBLES (FIBRA DE YACÓN + FIBRA DE ACACIA + INULINA DE ACHICORIA + PECTINA DE MANZANA) + VERDOLAGA + CANELA + TÉ VERDE + CROMO"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145798_EXT_23052024_001649_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145798_EXT_23052024_001539.jpg"
+        ]
+    },
+    {
+        "name": "YOUTH ELIXIR  CAJA 28 x 5gr",
+        "price": "₡ 26 500,00",
+        "points": "21",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_147387_PEQ_23022024_175350_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=147387",
+        "sku": "147387",
+        "description": "Combinación natural de aminoácidos con antioxidantes como el resveratrol, extraído de la uva del vino y súper frutas como blue-berries, sauco y amalaki que trabajan sinérgicamente para reducir los radicales libres y nutrir la glándula pituitaria, responsable de segregar la hormona de la juventud.",
+        "slogans": [
+            "¡MANTÉN UN CUERPO JOVEN POR MÁS TIEMPO!",
+            "AMINOÁCIDOS + ANTIOXIDANTES + RESVERATROL + OPTIBERRY®"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: BeneficiosLos componentes deYOUTH ELIXIR HGHte ayudarán a:- Aumentar la vitalidad, la elasticidad de la piel y mejorar la calidad del sueño.- Prevenir los efectos del envejecimiento prematuro, producido por los radicales libres.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos sticks al día, de preferencia antes de acostarse.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147387_EXT_23022024_175350_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147387_EXT_23022024_175444.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147387_EXT_23022024_175504.jpg"
+        ]
+    },
+    {
+        "name": "GOLDEN FLX  CAJA 28 x 5gr",
+        "price": "₡ 27 700,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145791_PEQ_07122023_172446_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145791",
+        "sku": "145791",
+        "description": "Delicioso té de especias con leche de coco, hecho a base de cúrcuma orgánica.El extracto de cúrcuma orgánica es reconocido por su efecto antioxidante y protector.Los curcuminoides trabajan en sinergia con el jengibre y el cardamomo para mantener la flexibilidad de las articulaciones.",
+        "slogans": [
+            "PROTEGE CADA PASO DE TU VIDA",
+            "EXTRACTO DE CÚRCUMA + JENGIBRE + CARDAMOMO + LECHE DE COCO + PIMIENTA NEGRA + CANELA"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145791_EXT_07122023_172446_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "POST SPORT  CAJA 28 x 5 gr",
+        "price": "₡ 27 717,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145795_PEQ_29062022_035734_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145795",
+        "sku": "145795",
+        "description": "Bebida deportiva a base de aminoácidos, agua de coco y antioxidantes que ayudan a la recuperación del cuerpo después del ejercicio. Rica en aminoácidos de cadena ramificada (BCAAs) que promueven la recuperación, el incremento y fortalecimiento de los músculos.",
+        "slogans": [
+            "AYUDA A TU CUERPO A RECUPERARSE LUEGO DEL EJERCICIO",
+            "AMINOÁCIDOS (BCAAs + GLUTAMINA) + ACEROLA + GRANADA + AGUA DE COCO"
+        ],
+        "video_url": "https://player.vimeo.com/video/310883977",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145795_EXT_29062022_035734_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145795_EXT_02112020_171422.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145795_EXT_02112020_171441.jpg"
+        ]
+    },
+    {
+        "name": "FLORA LIV  CAJA 28 x 5gr",
+        "price": "₡ 32 146,00",
+        "points": "24",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145790_PEQ_11032024_200414_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145790",
+        "sku": "145790",
+        "description": "Bebida a base de bacterias probióticas, fibra prebiótica combinados con vitaminas y minerales. Los cultivos probióticos ayudan a regenerar y equilibrar la flora intestinal, necesaria para la correcta asimilación de los nutrientes, así como la protección inmunológica del organismo mientras la fibra prebiótica favorece el desarrollo de las bacterias benéficas restableciendo el ecosistema intestinal.",
+        "slogans": [
+            "PROTEGE TU CUERPO DESDE ADENTRO",
+            "MIX DE FIBRAS (PSYLLIUM, INULINA DE ACHICORIA, MUCÍLAGO DE LINAZA) + EXTRACTO DE GUINDÓN + KELP + ANÍS ESTRELLA"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145790_EXT_11032024_200414_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "PROBAL  CAJA 28 x 5gr",
+        "price": "₡ 32 293,00",
+        "points": "25",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_147620_PEQ_22032024_230430_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=147620",
+        "sku": "147620",
+        "description": "Delicioso té herbal que combina aminoácidos, extractos vegetales, vitaminas y minerales que te ayudan a equilibrar los desbalances propios de la menopausia como cambios de humor y bochornos y las molestias que aparecen durante el periodo.",
+        "slogans": [
+            "¡UNA MUJER EMPODERADA NO SE DETIENE CON NADA!",
+            "AGUAJE + ORÉGANO + DONG QUAI + LUTEINA + TÉ NEGRO + VITAMINA C"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: BeneficiosOlvídate de los problemas de la menstruación y de la menopausia.",
+        "usage_suggestion": "Recomendación de Consumo: Recomendación de ConsumoConsumir 1 o 2 sticks al día.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147620_EXT_22032024_230430_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_147620_EXT_22032024_230500.jpg"
+        ]
+    },
+    {
+        "name": "VERA+  CAJA 28 x 5gr",
+        "price": "₡ 32 905,60",
+        "points": "26",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145800_PEQ_02082024_183516_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145800",
+        "sku": "145800",
+        "description": "Bebida herbal que contiene WELLMUNE®, aminoácidos y extractos vegetales de aloe vera y de olivo.WELLMUNE®, es un ingrediente patentado de origen natural que se obtiene de la levadura de cerveza. Cuenta con estudios clínicos que demuestran su contribución al mejor funcionamiento del sistema inmunológico y a prevenir los resfríos.La acetil cisteína es un aminoácido precursor del glutatión, el cual es el antioxidante más importante del cuerpo humano, el Aloe vera es reconocido por sus múltiples beneficios en el organismo, incluyendo el balance del sistema inmune, además el extracto de la hoja de oliva tiene estudios que relacionan efecto antioxidante y su acción en el mantenimiento óptimo del sistema inmune.",
+        "slogans": [
+            "REFUERZA TU CUERPO DE MANERA INTELIGENTE",
+            "EXTRACTO DE ALOE VERA + BETA GLUCANOS + MIX DE AMINOÁCIDOS (N-ACETILCISTEÍNA + GLICINA + L-GLUTAMINA) + EXTRACTO DE HOJA DE OLIVA + AMALAKI (VITAMINA C)"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145800_EXT_02082024_183516_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "BERRY BALANCE  CAJA 28 x 5 gr",
+        "price": "₡ 33 163,00",
+        "points": "26",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145787_PEQ_28042022_152024_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145787",
+        "sku": "145787",
+        "description": "Deliciosa bebida a base de concentrados de Berries incluyendo el Cranberry que es conocido por ayuda a nuestro organismo a prevenir las molestias del tracto urinario, así como el extracto de piña que se usa caseramente para ayudar a eliminar el exceso de líquidos.",
+        "slogans": [
+            "PROTEGE TU ORGANISMO Y MANTENLO EN EQUILIBRIO",
+            "EXTRACTO DE CRANBERRY + CONCENTRADO DE BERRIES Y FRUTAS TROPICALES + INFUSIÓN DE PIÑA + BACTERIAS PROBIÓTICAS + ANTOCIANINA + CALCIO ORGÁNICO + VITAMINAS C Y E"
+        ],
+        "video_url": "https://player.vimeo.com/video/316830773",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145787_EXT_28042022_152024_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145787_EXT_02112020_170315.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145787_EXT_02112020_170353.jpg"
+        ]
+    },
+    {
+        "name": "COMBO PONTE EN FORMA  COMBO",
+        "price": "₡ 125 926,67",
+        "points": "100",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_146757_PEQ_15072022_154831_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=146757",
+        "sku": "146757",
+        "description": "",
+        "slogans": [
+            "",
+            "2 NOCARB-T + 2 THERMO T3 + 1 VITA XTRA T+"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_146757_EXT_15072022_154831_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "COMBO DEFENSA NATURAL  COMBO",
+        "price": "₡ 141 367,00",
+        "points": "112",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_146758_PEQ_15072022_155206_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=146758",
+        "sku": "146758",
+        "description": "",
+        "slogans": [
+            "",
+            "2 VERA+ + 2 VITA XTRA T+ + 1 PRUNEX1"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_146758_EXT_15072022_155206_MAIN.jpg"
+        ]
+    },
+    {
+        "name": "PRUNEX1  DOYPACK 28 x 5 gr",
+        "price": "₡ 25 185,00",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145769_PEQ_15092021_213130_MAIN.jpeg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145769",
+        "sku": "145769",
+        "description": "Te herbal a base de un mix de fibras solubles y extracto de guindón, los cuales son conocidos como una alternativa eficaz en casos de molestias por tránsito intestinal lento. Además, el Anís Estrella ayuda a aliviar las molestias de la indigestión luego de comidas muy pesadas o abundantes.",
+        "slogans": [
+            "LIBERA EL TRÁNSITO EN TU SISTEMA DIGESTIVO",
+            "MIX DE FIBRAS (PSYLLIUM, INULINA DE ACHICORIA, MUCÍLAGO DE LINAZA) + EXTRACTO DE GUINDÓN + KELP + ANÍS ESTRELLA"
+        ],
+        "video_url": "https://player.vimeo.com/video/277172488",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145769_EXT_15092021_213130_MAIN.jpeg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145769_EXT_02112020_143257.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145769_EXT_02112020_143358.jpg"
+        ]
+    },
+    {
+        "name": "LIQUID FIBER  CAJA 28 x 5 gr",
+        "price": "₡ 20 132,00",
+        "points": "16",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145792_PEQ_02082022_164054_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145792",
+        "sku": "145792",
+        "description": "Bebida a base de fibras prebióticas. Se conoce que la fibra prebiótica nutre nuestra flora intestinal y trabaja dentro del organismo para lograr regular naturalmente el ritmo de las evacuaciones intestinales promoviendo la salud digestiva.",
+        "slogans": [
+            "DALE A TU CUERPO NUTRICIÓN PREBIÓTICA, PARA UN SISTEMA DIGESTIVO PUNTUAL",
+            "FIBRAS PREBIÓTICAS (INULINA Y OLIGOFRUCTUOSA, EXTRAÍDAS DE RAÍZ DE ACHICORIA) + MICRONUTRIENTES"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145792_EXT_02082022_164054_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145792_EXT_02112020_170956.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145792_EXT_02112020_171009.jpg"
+        ]
+    },
+    {
+        "name": "ALPHA BALANCE  CAJA 28 x 5 gr",
+        "price": "₡ 37 488,00",
+        "points": "30",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145785_PEQ_28072022_193529_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145785",
+        "sku": "145785",
+        "description": "Bebida saludable a base de extractos de vegetales y minerales. Los concentrados de vegetales verdes ricos en clorofila y nutrientes como alfalfa, algas, espinaca y más, son reconocidos por facilitar la depuración de toxinas, ácidos y metales pesados que se encuentran en nuestra sangre y órganos.El Zinc y el Magnesio permiten fortalecer el sistema inmunológico.",
+        "slogans": [
+            "MANTÉN TU CUERPO BALANCEADO, LIMPIO Y PURIFICADO",
+            "ALFALFA + ALGAS (CHLORELLA + ESPIRULINA) + PASTO DE TRIGO + ESPINACA + MANZANA VERDE + LIMÓN + JENGIBRE + MINERALES (MAGNESIO + ZINC)"
+        ],
+        "video_url": "https://player.vimeo.com/video/314513263",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145785_EXT_28072022_193529_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145785_EXT_02112020_170108.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145785_EXT_02112020_170126.jpg"
+        ]
+    },
+    {
+        "name": "BIOPRO+ TECT  CAJA 14 x 25 gr",
+        "price": "₡ 21 170,00",
+        "points": "16",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145783_PEQ_28072022_193813_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145783",
+        "sku": "145783",
+        "description": "El BioProtein+ con Colostrum® es una combinación proteica patentada por Fuxion creada gracias a la combinación de proteína de suero lácteo, proteína de soya, proteína de huevo y calostro bovino.El consumo de proteínas de alta calidad ayuda a mejorar el perfil proteico de la dieta diaria y los procesos de regeneración celular.El Bioferrin® o lactoferrina es conocido por ayudar a mejorar las defensas del organismo.",
+        "slogans": [
+            "ACTIVA TU SISTEMA NATURAL DE PROTECCIÓN",
+            "BIOPROTEIN+ CON COLOSTRUM® + BIOFERRÍN® + AMINOÁCIDOS + CALCIO LÁCTEO + DHA Y ARA"
+        ],
+        "video_url": "https://player.vimeo.com/video/310883858",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145783_EXT_28072022_193813_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145783_EXT_02112020_163558.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145783_EXT_02112020_163619.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145783_EXT_02112020_163703.jpg"
+        ]
+    },
+    {
+        "name": "VITAENERGÍA  CAJA 30 x 7.5 gr",
+        "price": "₡ 25 185,00",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145781_PEQ_28072022_193855_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145781",
+        "sku": "145781",
+        "description": "Bebida a base de concentrados frutales de camu camu y acai, antocianinas de Maíz Morado, vitaminas y minerales. El maíz morado, el camu camu contienen antioxidantes naturales que previenen los efectos perjudiciales de los radicales libres.Mientras que el acai es un energizante natural y las vitaminas y minerales contribuyen a un buen funcionamiento celular apoyando el metabolismo energético y el buen funcionamiento del sistema inmunológico.",
+        "slogans": [
+            "DALE A TU CUERPO PROTECCIÓN Y ENERGÍA DIARIA",
+            "AMINOÁCIDOS + VITAMINAS + MINERALES + FIBRA PREBIÓTICA + ANTOCIANINA DE MAÍZ MORADO + ACAI BERRY + CAMU CAMU + LUTEÍNA (EXTRACTO DE MARIGOLD)"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145781_EXT_28072022_193855_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145781_EXT_02112020_162548.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145781_EXT_02112020_162557.jpg"
+        ]
+    },
+    {
+        "name": "BIOPRO+ FIT  CAJA 14 x 25 gr",
+        "price": "₡ 21 170,00",
+        "points": "16",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145784_PEQ_28072022_194024_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145784",
+        "sku": "145784",
+        "description": "Delicioso batido de proteínas, a base de Bioprotein+ con Colostrum®, además contiene Prolibra®.Prolibra® es un ingrediente derivado del suero lácteo con estudios que demuestran su contribución a la reducción de la grasa corporal.Las proteínas son nutrientes vitales, cuyos aminoácidos son el principal elemento constructor de fibras musculares y otros elementos del metabolismo, como las enzimas.",
+        "slogans": [
+            "MEJORA TU NUTRICIÓN Y REDUCE MEDIDAS (*)",
+            "BIOPROTEIN+ CON COLOSTRUM® + PROLIBRA® + AMINOÁCIDOS + TAMARINDO MALABAR + VITAMINAS + DHA Y ARA"
+        ],
+        "video_url": "https://player.vimeo.com/video/310883858",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145784_EXT_28072022_194024_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145784_EXT_02112020_165530.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145784_EXT_02112020_165648.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145784_EXT_02112020_165659.jpg"
+        ]
+    },
+    {
+        "name": "CAFÉ & CAFÉ FIT  CAJA 28 x 5 gr",
+        "price": "₡ 31 500,00",
+        "points": "25",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145774_PEQ_02082022_163929_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145774",
+        "sku": "145774",
+        "description": "Delicioso café gourmet tostado que contiene extracto de café verde, el cual es conocido por su alto contenido de ácidos clorogénicos que junto a una dieta saludable y ejercicio contribuyen a controlar el apetito y reducir medidas.",
+        "slogans": [
+            "MANTÉN TU CUERPO EN LA ZONA FIT",
+            "CAFÉ TOSTADO LIOFILIZADO + EXTRACTO DE CAFÉ VERDE"
+        ],
+        "video_url": "https://player.vimeo.com/video/250346390",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145774_EXT_02082022_163929_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145774_EXT_02112020_150701.jpg"
+        ]
+    },
+    {
+        "name": "CAFÉ & CAFÉ FIT CAPPUCCINO  CAJA 28 x 15 gr",
+        "price": "₡ 31 500,00",
+        "points": "25",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145773_PEQ_06072022_214540_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145773",
+        "sku": "145773",
+        "description": "Delicioso café gourmet tostado que contiene extracto de café verde, el cual es conocido por su alto contenido",
+        "slogans": [
+            "MANTÉN TU CUERPO EN LA ZONA FIT",
+            "CAFÉ TOSTADO LIOFILIZADO + CAFÉ VERDE (SVETOL®) + LECHE DESCREMADA + CREMA PARA CAFÉ"
+        ],
+        "video_url": "https://player.vimeo.com/video/250346603",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145773_EXT_06072022_214540_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145773_EXT_02112020_145609.jpg"
+        ]
+    },
+    {
+        "name": "BEAUTY-IN  DOYPACK 28 x 5 gr",
+        "price": "₡ 32 292,54",
+        "points": "25",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145759_PEQ_28072022_193452_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145759",
+        "sku": "145759",
+        "description": "Delicioso refresco nutritivo de guayaba con péptidos de colágeno bioactivo y coenzima Q10.Los péptidos bioactivos de colágeno nutren tu piel desde adentro estimulando la síntesis de colágeno en la piel, proporcionando elasticidad, y previniendo la formación de arrugas y la flacidez.La Coenzima Q10 es conocida por proporcionar nutrición celular óptima de las células de la piel.",
+        "slogans": [
+            "EL SECRETO DE LA VERDADERA BELLEZA VIENE DESDE ADENTRO",
+            "PÉPTIDOS DE COLÁGENO BIOACTIVO OPTIMIZADO + COENZIMA Q10 + SESBANIA (BIOTINA NATURAL) + CONCENTRADO DE SÚPER FRUTAS EXÓTICAS (VITAMINAS C Y E) + ZINC"
+        ],
+        "video_url": "https://player.vimeo.com/video/280813242",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145759_EXT_28072022_193452_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145759_EXT_02112020_142018.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145759_EXT_02112020_142036.jpg"
+        ]
+    },
+    {
+        "name": "PASSION  CAJA 28 x 5 gr",
+        "price": "₡ 25 185,00",
+        "points": "20",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145794_PEQ_16092021_011445_MAIN.jpeg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145794",
+        "sku": "145794",
+        "description": "Bebida que contiene L-arginina, isoleucina y glutamina, extractos de jalea real, Maca y Gingseng y zinc orgánico.L-arginina es un potente aminoácido que ayuda a incrementar el nivel de energía y vigor.La Maca y el Ginseng son reconocidos ancestralmente por sus efectos vigorizantes.",
+        "slogans": [
+            "INCREMENTA TU VIGOR",
+            "AMINOÁCIDOS + EXTRACTO DE JALEA REAL + MACA + GINSENG + ZINC ORGÁNICO"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145794_EXT_16092021_011445_MAIN.jpeg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145794_EXT_02112020_171408.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145794_EXT_02112020_171424.jpg"
+        ]
+    },
+    {
+        "name": "OFF  CAJA 28 x 5 gr",
+        "price": "₡ 27 700,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_144528_PEQ_02082022_164312_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=144528",
+        "sku": "144528",
+        "description": "Deliciosa bebida nutritiva hecha a base de aminoácidos esenciales que actúan sobre el cerebro para mantenerlo relajado, enfocado y en positivo. Estos aminoácidos, en combinación con extractos de Amalaki y Ashwagandha, vitaminas del complejo B y minerales, contribuyen a una mejor nutrición neuronal, a equilibrar al sistema nervioso y optimizar los procesos naturales de relajación, sin producir somnolencia.",
+        "slogans": [
+            "MANTENTE TRANQUILO Y ENFOCADO",
+            "Aminoácidos Esenciales (L- Teanina, Glicina, Tríptofano) + Extracto de Súper Frutas (Ashwagandha, Amalaki Y Limón) + Magnesio en Molécula Orgánica + Vitaminas del Complejo B"
+        ],
+        "video_url": "No Video",
+        "benefits": "Beneficios: BeneficiosLos ingredientes de No Stress contribuyen a incrementar la resistencia del organismo frente al estrés, la ansiedad y la angustia. Ayudan a mantener la concentración y enfoque en momentos de gran tensión, así como mejorar la capacidad de relajación.",
+        "usage_suggestion": "Preparación: PreparaciónDisolver el contenido de un stick en un vaso con 180 ml de agua fría.Recomendación de ConsumoUno o dos sticks al día, en cualquier momento.  Si se quiere mejorar la calidad de sueño, puedo tomarse antes de dormir.",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_144528_EXT_02082022_164312_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_144528_EXT_02112020_222552.jpg"
+        ]
+    },
+    {
+        "name": "BIOPRO+ SPORT  CAJA 14 x 25 gr",
+        "price": "₡ 21 170,00",
+        "points": "16",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145802_PEQ_02082022_163837_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145802",
+        "sku": "145802",
+        "description": "Delicioso batido de proteínas, a base de Bioprotein+ con Colostrum®, además contiene Actinos™.Actinos™ es un péptido natural biológicamente activo que favorece la producción de óxido nítrico del organismo, ofreciendo una mejor recuperación muscular incrementando la capacidad arterial y mejorando el desempeño físico del deportista.Las proteínas son nutrientes vitales, cuyos aminoácidos son el principal elemento constructor y reparador de fibras musculares.",
+        "slogans": [
+            "QUE TUS MÚSCULOS FIRMES Y BIEN DEFINIDOS HABLEN POR TI",
+            "BIOPROTEIN+ CON COLOSTRUM® + ACTINOS® + AMINOÁCIDOS + CALCIO LÁCTEO + DHA Y ARA"
+        ],
+        "video_url": "https://player.vimeo.com/video/310883791",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145802_EXT_02082022_163837_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145802_EXT_02112020_172044.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145802_EXT_02112020_172244.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145802_EXT_02112020_172315.jpg"
+        ]
+    },
+    {
+        "name": "PRE SPORT  CAJA 28 x 5 gr",
+        "price": "₡ 27 717,00",
+        "points": "22",
+        "image_url": "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/imageProducts/CR/CR_145796_PEQ_02082022_164403_MAIN.jpg",
+        "detail_url": "https://ifuxion.com/alexsrebernic/enrollment/productsdet?itemcode=145796",
+        "sku": "145796",
+        "description": "Bebida isotónica, rehidratante y energizante natural que prepara al cuerpo para la actividad deportiva intensa y mejora su rendimiento durante el ejercicio.",
+        "slogans": [
+            "PREPARA TU CUERPO PARA DARLO TODO",
+            "AMINOÁCIDOS (CITRULINA NATURAL DE LA SANDÍA, BETALANINA DE LA BETERRAGA) + L-CREATINA NITRATO + MIX ISOTÓNICO (DEXTROSA, POTASIO, SODIO Y ZINC) + HIERBA MATE"
+        ],
+        "video_url": "https://player.vimeo.com/video/310884769",
+        "benefits": "Beneficios: ",
+        "usage_suggestion": "Sugerencia de uso: ",
+        "additional_images": [
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145796_EXT_02082022_164403_MAIN.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145796_EXT_02112020_171911.jpg",
+            "https://fuxionstorage.blob.core.windows.net/vhdfuxionoffix/newOffix/productDetails/CR/CR_145796_EXT_02112020_172020.jpg"
+        ]
+    }
+]
